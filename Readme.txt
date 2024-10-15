@@ -9,8 +9,4 @@
 
 
 
-	Nota: -Desi in cadrul dataset-urilor nu am adaugat proprietatile itemId, respectiv userId, serviciul Recombee le-a 
-introdus automat. Eu le voi folosi ca si referinta pentru a crea interactiuni intre cele doua dataset-uri.
-
-
 https://github.com/daniela223729/Sisteme-de-recomandare.git
